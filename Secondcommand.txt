@@ -1,1 +1,0 @@
-cd /d/git_repos
